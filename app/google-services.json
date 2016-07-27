@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "680034331254",
+    "firebase_url": "https://chat-app-c16d8.firebaseio.com",
+    "project_id": "chat-app-c16d8",
+    "storage_bucket": "chat-app-c16d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680034331254:android:bb38f1aeb879267a",
+        "android_client_info": {
+          "package_name": "com.sksha.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "680034331254-3omar9ouo1a4tjk344h87ktj8tn3e5da.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBCeQ21rNnaquEVZrOYTvnhois_MdiHjc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
