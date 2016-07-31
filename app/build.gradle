@@ -27,7 +27,7 @@ android {
         compile fileTree(dir: 'libs', include: ['*.jar'])
         testCompile 'junit:junit:4.12'
         compile 'com.android.support:appcompat-v7:23+'
-        compile 'com.firebase:firebase-client-android:2.5.2+'
+        compile 'com.firebase:firebase-client-android:+'
     }
     apply plugin: 'com.google.gms.google-services'
 }
